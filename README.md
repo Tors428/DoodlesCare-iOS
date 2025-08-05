@@ -7,25 +7,25 @@ A playful, AI-powered iOS wellness app for dog parents. Built using Swift and Sw
 
 ## 🧠 Project Goals
 
-- 📱 Design a whimsical, user-friendly onboarding flow for dog parents  
-- 🤖 Integrate an AI chatbot for wellness recommendations (e.g., food, grooming, products)  
-- 🐾 Create modules for medical tracking, pantry management, and personalized engagement  
-- 🎨 Prioritize mobile UI that feels emotionally warm and playful
+-  Design a whimsical, user-friendly onboarding flow for dog parents  
+-  Integrate an AI chatbot for wellness recommendations (e.g., food, grooming, products)  
+-  Create modules for medical tracking, pantry management, and personalized engagement  
+-  Prioritize mobile UI that feels emotionally warm and playful
 
 ---
 
 ## 📸 UI Walkthrough
 
-### 📍 Home Screen  
+###  Home Screen  
 <img src="Screenshots/Home Screen .png" width="300"/>
 
-### 💬 Initial Onboarding  
+###  Initial Onboarding  
 <img src="Screenshots/Onboarding.png" width="300"/>
 
-### 🐾 Menu 
+###  Menu 
 <img src="Screenshots/Menu.png" width="300"/>
 
-### 🐾 Designs
+###  Designs
 <img src="Screenshots/UI:UX designs .png" width="300"/>
 
 > 📌 These screenshots represent the working SwiftUI prototype built using Xcode and designed for iPhone 16 Pro simulation.
@@ -34,11 +34,11 @@ A playful, AI-powered iOS wellness app for dog parents. Built using Swift and Sw
 
 ## 🧰 Tools & Technologies
 
-- 🧑‍💻 **Swift & SwiftUI** for mobile development
-- 🤖 **OpenAI API** for chatbot integration (under development)
-- 🎨 Figma for layout wireframes and UI design
-- 🧱 MVVM architecture for clean data binding
-- 🧪 Xcode Simulator (iPhone 16 Pro) for testing
+-  **Swift & SwiftUI** for mobile development
+-  **OpenAI API** for chatbot integration (under development)
+-  Figma for layout wireframes and UI design
+-  MVVM architecture for clean data binding
+-  Xcode Simulator (iPhone 16 Pro) for testing
 
 ---
 
